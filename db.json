@@ -12,5 +12,33 @@
       "nomorpunggung": "2",
       "bayar": "0",
       "id": 2
+    },
+    {
+      "nama": "aben",
+      "namapunggung": "heaven",
+      "nomorpunggung": "10",
+      "bayar": "10000",
+      "id": 3
+    },
+    {
+      "nama": "fajri",
+      "namapunggung": "fajri",
+      "nomorpunggung": "28",
+      "bayar": "40000",
+      "id": 4
+    },
+    {
+      "nama": "budi",
+      "namapunggung": "cubud",
+      "nomorpunggung": "1",
+      "bayar": "90000",
+      "id": 5
+    },
+    {
+      "nama": "hasan",
+      "namapunggung": "asan",
+      "nomorpunggung": "6",
+      "bayar": "110000",
+      "id": 6
     }
 ]
